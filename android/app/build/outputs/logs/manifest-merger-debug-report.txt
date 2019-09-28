@@ -1,0 +1,217 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-gesture-handler] C:\Users\pawan\AndroidStudioProjects\cMangaZone2\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] C:\Users\pawan\AndroidStudioProjects\cMangaZone2\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.59.10] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\2b424ce266428193098fcd1720223e45\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\ef6e6ce26f9e6b4489a57d85cd08dab0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\4195069f84e5ba94270b383aded15b3b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\f8f140f285565c88fa95ba2a35c99854\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\de0fdb62c19b0886204e5cb30e5e3cc7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\8a3e56f0c61da1087ebbef3f789bdcfb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\9665dd8f36395411e8eb7f9a825d18ab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\8585ca6ad078cf1f709f541792092606\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\4c6e8c9e0e74901abbe93a87c9785581\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\bee0d0c47616e7d36c21dfda6c9446df\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\2fc49716121430881144917a18c27a8c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\1669df30e5dffe02f54020f60b6357de\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\76124aa578cafa1e372f6e0f855bea52\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\2cb718f6d632872317abf0a269fa88e1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\d586da8ca8933d1743ec00f3c4e3e3d3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\1fb07782df97f497771e902e55157307\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\557b637d42bdd5fa62015d10bce923e9\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\f485ddf53015e54126041227a3f86957\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\a7dfa1530959e8b7e572581bacb8fc2d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\898ae6af0363f1eb99bab5a697a7498d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\b97f5c9858d14029e746be4a29daec7a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\b519fe8e92c1e1b5651f10d313d42289\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\a32b9ec79d71451b7e5a8a31ca4931d9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\e1c380284ae7775818bb49172ea1ed24\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\acf76075167aca6871b5892f379d554e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\c42be2f305610403a72bd6fc413c0731\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\432286f2780ad4f07dda63665bb74625\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\ea76880f273e799b65f353fdd8a01b16\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\dbcb8fcd75f9dd64cc522c27604daf65\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\e6bcb8f254d0e12cd415c730c8e97c5e\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\fe08869caafc073633ee0e2edd03e8da\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\f03372c978cabce98abab56a0a369d4b\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\041931febb0faa7c28f39ad277bfca21\AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\cf98bc0cea630ccd08d7fc1ca4d5fbfc\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\main\AndroidManifest.xml:2:3-28
+		INJECTED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\main\AndroidManifest.xml:2:3-28
+		INJECTED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\debug\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.59.10] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\2b424ce266428193098fcd1720223e45\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.10] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\2b424ce266428193098fcd1720223e45\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\1fb07782df97f497771e902e55157307\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\1fb07782df97f497771e902e55157307\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\557b637d42bdd5fa62015d10bce923e9\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\557b637d42bdd5fa62015d10bce923e9\AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\041931febb0faa7c28f39ad277bfca21\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\041931febb0faa7c28f39ad277bfca21\AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\1fb07782df97f497771e902e55157307\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\main\AndroidManifest.xml:8:7-39
+		ADDED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\main\AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\debug\AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\main\AndroidManifest.xml:10:7-52
+		ADDED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\main\AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\debug\AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\main\AndroidManifest.xml:9:7-41
+		ADDED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\main\AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\main\AndroidManifest.xml:11:7-34
+		ADDED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\main\AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\main\AndroidManifest.xml:12:7-38
+		ADDED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\main\AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\debug\AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\main\AndroidManifest.xml:7:7-38
+		ADDED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\main\AndroidManifest.xml:7:7-38
+activity#com.cmangazone2.MainActivity
+ADDED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\main\AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\main\AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\main\AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\main\AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\main\AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\main\AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\main\AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\main\AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\main\AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\main\AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\main\AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\main\AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-gesture-handler] C:\Users\pawan\AndroidStudioProjects\cMangaZone2\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Users\pawan\AndroidStudioProjects\cMangaZone2\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] C:\Users\pawan\AndroidStudioProjects\cMangaZone2\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] C:\Users\pawan\AndroidStudioProjects\cMangaZone2\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.10] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\2b424ce266428193098fcd1720223e45\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.10] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\2b424ce266428193098fcd1720223e45\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\ef6e6ce26f9e6b4489a57d85cd08dab0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\ef6e6ce26f9e6b4489a57d85cd08dab0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\4195069f84e5ba94270b383aded15b3b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\4195069f84e5ba94270b383aded15b3b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\f8f140f285565c88fa95ba2a35c99854\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\f8f140f285565c88fa95ba2a35c99854\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\de0fdb62c19b0886204e5cb30e5e3cc7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\de0fdb62c19b0886204e5cb30e5e3cc7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\8a3e56f0c61da1087ebbef3f789bdcfb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\8a3e56f0c61da1087ebbef3f789bdcfb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\9665dd8f36395411e8eb7f9a825d18ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\9665dd8f36395411e8eb7f9a825d18ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\8585ca6ad078cf1f709f541792092606\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\8585ca6ad078cf1f709f541792092606\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\4c6e8c9e0e74901abbe93a87c9785581\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\4c6e8c9e0e74901abbe93a87c9785581\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\bee0d0c47616e7d36c21dfda6c9446df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\bee0d0c47616e7d36c21dfda6c9446df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\2fc49716121430881144917a18c27a8c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\2fc49716121430881144917a18c27a8c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\1669df30e5dffe02f54020f60b6357de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\1669df30e5dffe02f54020f60b6357de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\76124aa578cafa1e372f6e0f855bea52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\76124aa578cafa1e372f6e0f855bea52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\2cb718f6d632872317abf0a269fa88e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\2cb718f6d632872317abf0a269fa88e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\d586da8ca8933d1743ec00f3c4e3e3d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\d586da8ca8933d1743ec00f3c4e3e3d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\1fb07782df97f497771e902e55157307\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\1fb07782df97f497771e902e55157307\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\557b637d42bdd5fa62015d10bce923e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\557b637d42bdd5fa62015d10bce923e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\f485ddf53015e54126041227a3f86957\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\f485ddf53015e54126041227a3f86957\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\a7dfa1530959e8b7e572581bacb8fc2d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\a7dfa1530959e8b7e572581bacb8fc2d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\898ae6af0363f1eb99bab5a697a7498d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\898ae6af0363f1eb99bab5a697a7498d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\b97f5c9858d14029e746be4a29daec7a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\b97f5c9858d14029e746be4a29daec7a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\b519fe8e92c1e1b5651f10d313d42289\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\b519fe8e92c1e1b5651f10d313d42289\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\a32b9ec79d71451b7e5a8a31ca4931d9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\a32b9ec79d71451b7e5a8a31ca4931d9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\e1c380284ae7775818bb49172ea1ed24\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\e1c380284ae7775818bb49172ea1ed24\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\acf76075167aca6871b5892f379d554e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\acf76075167aca6871b5892f379d554e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\c42be2f305610403a72bd6fc413c0731\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\c42be2f305610403a72bd6fc413c0731\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\432286f2780ad4f07dda63665bb74625\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\432286f2780ad4f07dda63665bb74625\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\ea76880f273e799b65f353fdd8a01b16\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\ea76880f273e799b65f353fdd8a01b16\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\dbcb8fcd75f9dd64cc522c27604daf65\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\dbcb8fcd75f9dd64cc522c27604daf65\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\e6bcb8f254d0e12cd415c730c8e97c5e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\e6bcb8f254d0e12cd415c730c8e97c5e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\fe08869caafc073633ee0e2edd03e8da\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\fe08869caafc073633ee0e2edd03e8da\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\f03372c978cabce98abab56a0a369d4b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\f03372c978cabce98abab56a0a369d4b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\041931febb0faa7c28f39ad277bfca21\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\041931febb0faa7c28f39ad277bfca21\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\cf98bc0cea630ccd08d7fc1ca4d5fbfc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\pawan\.gradle\caches\transforms-2\files-2.1\cf98bc0cea630ccd08d7fc1ca4d5fbfc\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\debug\AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from C:\Users\pawan\AndroidStudioProjects\cMangaZone2\android\app\src\debug\AndroidManifest.xml:5:22-75

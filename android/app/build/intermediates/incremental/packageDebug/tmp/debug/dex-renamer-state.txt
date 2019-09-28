@@ -1,0 +1,4 @@
+#Wed Sep 18 20:32:31 IST 2019
+base.0=C\:\\Users\\pawan\\AndroidStudioProjects\\cMangaZone2\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
